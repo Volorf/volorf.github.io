@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "663d9ed89bd2a063b2e57ace016563d8",
+    "revision": "ab0c02408e212ebc817f7ef1ac515c15",
     "url": "/index.html"
   },
   {
-    "revision": "e750a42e3a088f3248b8",
-    "url": "/static/css/main.90cf3bd3.chunk.css"
+    "revision": "b7119bcad52f02afec0c",
+    "url": "/static/css/main.aff55b09.chunk.css"
   },
   {
-    "revision": "88f1388bbe7f78fa53bb",
-    "url": "/static/js/2.d6041ad0.chunk.js"
+    "revision": "a885109944d0149a1f0e",
+    "url": "/static/js/2.ace17c5e.chunk.js"
   },
   {
-    "revision": "e750a42e3a088f3248b8",
-    "url": "/static/js/main.f3d92ccc.chunk.js"
+    "revision": "b7119bcad52f02afec0c",
+    "url": "/static/js/main.76dc4c87.chunk.js"
   },
   {
     "revision": "222a6cc84e7a4e4f5ed3",
@@ -158,9 +158,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9e13ebe1b9375f6115e0d4e6dd427d13",
     "url": "/static/media/star_tanks.9e13ebe1.png"
-  },
-  {
-    "revision": "1c4a29e792456b37e27bb013b88fa187",
-    "url": "/static/media/yandex_news_cover@2x.1c4a29e7.jpg"
   }
 ]);

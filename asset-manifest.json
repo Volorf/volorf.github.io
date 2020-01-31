@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.90cf3bd3.chunk.css",
-    "main.js": "/static/js/main.717edc15.chunk.js",
-    "main.js.map": "/static/js/main.717edc15.chunk.js.map",
+    "main.css": "/static/css/main.aff55b09.chunk.css",
+    "main.js": "/static/js/main.76dc4c87.chunk.js",
+    "main.js.map": "/static/js/main.76dc4c87.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ecd1f050.js",
     "runtime-main.js.map": "/static/js/runtime-main.ecd1f050.js.map",
-    "static/js/2.d6041ad0.chunk.js": "/static/js/2.d6041ad0.chunk.js",
-    "static/js/2.d6041ad0.chunk.js.map": "/static/js/2.d6041ad0.chunk.js.map",
+    "static/js/2.ace17c5e.chunk.js": "/static/js/2.ace17c5e.chunk.js",
+    "static/js/2.ace17c5e.chunk.js.map": "/static/js/2.ace17c5e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8ffff6809ed93ea0506377e73b60396a.js": "/precache-manifest.8ffff6809ed93ea0506377e73b60396a.js",
+    "precache-manifest.75260a28eae8c8ae6cd21d352278d50c.js": "/precache-manifest.75260a28eae8c8ae6cd21d352278d50c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.90cf3bd3.chunk.css.map": "/static/css/main.90cf3bd3.chunk.css.map",
+    "static/css/main.aff55b09.chunk.css.map": "/static/css/main.aff55b09.chunk.css.map",
     "static/media/01_search_field_interaction_concept.gif": "/static/media/01_search_field_interaction_concept.8228562a.gif",
     "static/media/01_sparkliner.gif": "/static/media/01_sparkliner.5fc3d336.gif",
     "static/media/01_yandex_news.png": "/static/media/01_yandex_news.b421519d.png",
@@ -45,13 +45,12 @@
     "static/media/magic.gif": "/static/media/magic.3fb7295d.gif",
     "static/media/makeapp.png": "/static/media/makeapp.7c8bea27.png",
     "static/media/space_rainbow.gif": "/static/media/space_rainbow.a7617088.gif",
-    "static/media/star_tanks.png": "/static/media/star_tanks.9e13ebe1.png",
-    "static/media/yandex_news_cover@2x.jpg": "/static/media/yandex_news_cover@2x.1c4a29e7.jpg"
+    "static/media/star_tanks.png": "/static/media/star_tanks.9e13ebe1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ecd1f050.js",
-    "static/js/2.d6041ad0.chunk.js",
-    "static/css/main.90cf3bd3.chunk.css",
-    "static/js/main.717edc15.chunk.js"
+    "static/js/2.ace17c5e.chunk.js",
+    "static/css/main.aff55b09.chunk.css",
+    "static/js/main.76dc4c87.chunk.js"
   ]
 }

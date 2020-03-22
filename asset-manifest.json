@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.aff55b09.chunk.css",
-    "main.js": "/static/js/main.7ba0d4b0.chunk.js",
-    "main.js.map": "/static/js/main.7ba0d4b0.chunk.js.map",
+    "main.css": "/static/css/main.d8615cad.chunk.css",
+    "main.js": "/static/js/main.4d153e89.chunk.js",
+    "main.js.map": "/static/js/main.4d153e89.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ecd1f050.js",
     "runtime-main.js.map": "/static/js/runtime-main.ecd1f050.js.map",
-    "static/js/2.ace17c5e.chunk.js": "/static/js/2.ace17c5e.chunk.js",
-    "static/js/2.ace17c5e.chunk.js.map": "/static/js/2.ace17c5e.chunk.js.map",
+    "static/js/2.c426d00a.chunk.js": "/static/js/2.c426d00a.chunk.js",
+    "static/js/2.c426d00a.chunk.js.map": "/static/js/2.c426d00a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2cba485d588c01d9e59f897b27caffbd.js": "/precache-manifest.2cba485d588c01d9e59f897b27caffbd.js",
+    "precache-manifest.088397e45ffd544d79f9ed2f72d33387.js": "/precache-manifest.088397e45ffd544d79f9ed2f72d33387.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.aff55b09.chunk.css.map": "/static/css/main.aff55b09.chunk.css.map",
+    "static/css/main.d8615cad.chunk.css.map": "/static/css/main.d8615cad.chunk.css.map",
     "static/media/01_search_field_interaction_concept.gif": "/static/media/01_search_field_interaction_concept.8228562a.gif",
     "static/media/01_sparkliner.gif": "/static/media/01_sparkliner.5fc3d336.gif",
     "static/media/01_yandex_news.png": "/static/media/01_yandex_news.b421519d.png",
@@ -38,10 +38,11 @@
     "static/media/14_mobile_stepper_interaction_concept.gif": "/static/media/14_mobile_stepper_interaction_concept.63bf8ccc.gif",
     "static/media/15_record_button_exploration.gif": "/static/media/15_record_button_exploration.587511e9.gif",
     "static/media/16_catterpillar.gif": "/static/media/16_catterpillar.cce26826.gif",
+    "static/media/apopalypse.gif": "/static/media/apopalypse.a8c65520.gif",
     "static/media/back_button.css": "/static/media/back.ed2c17f4.svg",
     "static/media/chudo.jpg": "/static/media/chudo.359de3bf.jpg",
+    "static/media/coming_soon@2x.png": "/static/media/coming_soon@2x.9ee1d62b.png",
     "static/media/cover@2x.jpg": "/static/media/cover@2x.3a40ace6.jpg",
-    "static/media/ishadow.png": "/static/media/ishadow.5c46bff3.png",
     "static/media/magic.gif": "/static/media/magic.3fb7295d.gif",
     "static/media/makeapp.png": "/static/media/makeapp.7c8bea27.png",
     "static/media/space_rainbow.gif": "/static/media/space_rainbow.a7617088.gif",
@@ -49,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ecd1f050.js",
-    "static/js/2.ace17c5e.chunk.js",
-    "static/css/main.aff55b09.chunk.css",
-    "static/js/main.7ba0d4b0.chunk.js"
+    "static/js/2.c426d00a.chunk.js",
+    "static/css/main.d8615cad.chunk.css",
+    "static/js/main.4d153e89.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a186ca1b.chunk.css",
+    "main.css": "/static/css/main.99b06815.chunk.css",
     "main.js": "/static/js/main.7b2eb7a5.chunk.js",
     "main.js.map": "/static/js/main.7b2eb7a5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ecd1f050.js",
@@ -8,9 +8,9 @@
     "static/js/2.909ff09d.chunk.js": "/static/js/2.909ff09d.chunk.js",
     "static/js/2.909ff09d.chunk.js.map": "/static/js/2.909ff09d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4658ff67eca3b8b28e6177688b2db72a.js": "/precache-manifest.4658ff67eca3b8b28e6177688b2db72a.js",
+    "precache-manifest.a96250b9cb151c942ca6a218d2d6479a.js": "/precache-manifest.a96250b9cb151c942ca6a218d2d6479a.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.a186ca1b.chunk.css.map": "/static/css/main.a186ca1b.chunk.css.map",
+    "static/css/main.99b06815.chunk.css.map": "/static/css/main.99b06815.chunk.css.map",
     "static/media/01_search_field_interaction_concept.gif": "/static/media/01_search_field_interaction_concept.8228562a.gif",
     "static/media/01_sparkliner.gif": "/static/media/01_sparkliner.5fc3d336.gif",
     "static/media/01_yandex_news.png": "/static/media/01_yandex_news.b421519d.png",
@@ -51,7 +51,7 @@
   "entrypoints": [
     "static/js/runtime-main.ecd1f050.js",
     "static/js/2.909ff09d.chunk.js",
-    "static/css/main.a186ca1b.chunk.css",
+    "static/css/main.99b06815.chunk.css",
     "static/js/main.7b2eb7a5.chunk.js"
   ]
 }

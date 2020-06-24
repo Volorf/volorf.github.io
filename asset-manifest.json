@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.99b06815.chunk.css",
-    "main.js": "/static/js/main.7b2eb7a5.chunk.js",
-    "main.js.map": "/static/js/main.7b2eb7a5.chunk.js.map",
+    "main.css": "/static/css/main.9079a6fa.chunk.css",
+    "main.js": "/static/js/main.f69ca57a.chunk.js",
+    "main.js.map": "/static/js/main.f69ca57a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ecd1f050.js",
     "runtime-main.js.map": "/static/js/runtime-main.ecd1f050.js.map",
-    "static/js/2.909ff09d.chunk.js": "/static/js/2.909ff09d.chunk.js",
-    "static/js/2.909ff09d.chunk.js.map": "/static/js/2.909ff09d.chunk.js.map",
+    "static/js/2.17e1cd6c.chunk.js": "/static/js/2.17e1cd6c.chunk.js",
+    "static/js/2.17e1cd6c.chunk.js.map": "/static/js/2.17e1cd6c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a96250b9cb151c942ca6a218d2d6479a.js": "/precache-manifest.a96250b9cb151c942ca6a218d2d6479a.js",
+    "precache-manifest.3bfd02ce043385cec505d17acbbe4b83.js": "/precache-manifest.3bfd02ce043385cec505d17acbbe4b83.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.99b06815.chunk.css.map": "/static/css/main.99b06815.chunk.css.map",
+    "static/css/main.9079a6fa.chunk.css.map": "/static/css/main.9079a6fa.chunk.css.map",
     "static/media/01_search_field_interaction_concept.gif": "/static/media/01_search_field_interaction_concept.8228562a.gif",
     "static/media/01_sparkliner.gif": "/static/media/01_sparkliner.5fc3d336.gif",
     "static/media/01_yandex_news.png": "/static/media/01_yandex_news.b421519d.png",
@@ -40,7 +40,6 @@
     "static/media/apopalypse.gif": "/static/media/apopalypse.a8c65520.gif",
     "static/media/back_button.css": "/static/media/back.ed2c17f4.svg",
     "static/media/chudo.jpg": "/static/media/chudo.359de3bf.jpg",
-    "static/media/coming_soon@2x.png": "/static/media/coming_soon@2x.9ee1d62b.png",
     "static/media/cover@2x.jpg": "/static/media/cover@2x.3a40ace6.jpg",
     "static/media/magic.gif": "/static/media/magic.3fb7295d.gif",
     "static/media/makeapp.png": "/static/media/makeapp.7c8bea27.png",
@@ -50,8 +49,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ecd1f050.js",
-    "static/js/2.909ff09d.chunk.js",
-    "static/css/main.99b06815.chunk.css",
-    "static/js/main.7b2eb7a5.chunk.js"
+    "static/js/2.17e1cd6c.chunk.js",
+    "static/css/main.9079a6fa.chunk.css",
+    "static/js/main.f69ca57a.chunk.js"
   ]
 }

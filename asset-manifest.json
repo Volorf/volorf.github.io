@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9079a6fa.chunk.css",
-    "main.js": "/static/js/main.f69ca57a.chunk.js",
-    "main.js.map": "/static/js/main.f69ca57a.chunk.js.map",
+    "main.js": "/static/js/main.546db125.chunk.js",
+    "main.js.map": "/static/js/main.546db125.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ecd1f050.js",
     "runtime-main.js.map": "/static/js/runtime-main.ecd1f050.js.map",
     "static/js/2.17e1cd6c.chunk.js": "/static/js/2.17e1cd6c.chunk.js",
     "static/js/2.17e1cd6c.chunk.js.map": "/static/js/2.17e1cd6c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3bfd02ce043385cec505d17acbbe4b83.js": "/precache-manifest.3bfd02ce043385cec505d17acbbe4b83.js",
+    "precache-manifest.9034aebbb5a13dcf6a6102d38aab4b7f.js": "/precache-manifest.9034aebbb5a13dcf6a6102d38aab4b7f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9079a6fa.chunk.css.map": "/static/css/main.9079a6fa.chunk.css.map",
     "static/media/01_search_field_interaction_concept.gif": "/static/media/01_search_field_interaction_concept.8228562a.gif",
@@ -36,6 +36,7 @@
     "static/media/14_mobile_stepper_interaction_concept.gif": "/static/media/14_mobile_stepper_interaction_concept.63bf8ccc.gif",
     "static/media/15_record_button_exploration.gif": "/static/media/15_record_button_exploration.587511e9.gif",
     "static/media/16_catterpillar.gif": "/static/media/16_catterpillar.cce26826.gif",
+    "static/media/5sec.gif": "/static/media/5sec.e5afba7a.gif",
     "static/media/Mobile_Navigation_Pattern.gif": "/static/media/Mobile_Navigation_Pattern.1c8b6b58.gif",
     "static/media/apopalypse.gif": "/static/media/apopalypse.a8c65520.gif",
     "static/media/back_button.css": "/static/media/back.ed2c17f4.svg",
@@ -44,13 +45,12 @@
     "static/media/magic.gif": "/static/media/magic.3fb7295d.gif",
     "static/media/makeapp.png": "/static/media/makeapp.7c8bea27.png",
     "static/media/papervsmicrobes.gif": "/static/media/papervsmicrobes.98942cff.gif",
-    "static/media/space_rainbow.gif": "/static/media/space_rainbow.a7617088.gif",
     "static/media/star_tanks.gif": "/static/media/star_tanks.d56411f8.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.ecd1f050.js",
     "static/js/2.17e1cd6c.chunk.js",
     "static/css/main.9079a6fa.chunk.css",
-    "static/js/main.f69ca57a.chunk.js"
+    "static/js/main.546db125.chunk.js"
   ]
 }

@@ -1,17 +1,24 @@
 html
     head
         link(rel="stylesheet", href="style.css")
-    body
+        script(src="js/hover3D.js")
+        script(src='/js/redirect.js')
+        incude social_meta.pug
+    body(onload="DetectAndServe()")
         .container
             .leftBlock
                 h1 Brainy
                 p
-                    | Brainy is an ancient board game for one player. 
-                    | Try to leave only one peg on the board. 
-                    | It's not as easy as you could think.
+                    | Brainy is a game based on an ancient board game designed for one player. 
+                    | Try to remove all the pegs, leaving only one on the board. 
+                    | It's not as easy as you think.
                     | Challenge your mind!
                 .buttons
                     a(href="#").storeButton Apple Store
                     a(href="#").storeButton Google Play
             .rightBlock
                 .screenshot
+                    .layer1
+                    .layer2
+                    .layer3
+        script(src="js/myHover3D.js")

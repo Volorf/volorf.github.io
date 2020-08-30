@@ -1,9 +1,10 @@
 html
     head
+        include meta.pug
+        include social_meta.pug
         link(rel="stylesheet", href="style.css")
         script(src="js/hover3D.js")
         script(src='/js/redirect.js')
-        include social_meta.pug
     body(onload="DetectAndServe()")
         .container
             .leftBlock

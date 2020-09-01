@@ -31,7 +31,7 @@ body .container .leftBlock p {
   line-height: 140%;
 }
 body .container .leftBlock .buttons {
-  margin-top: 16px;
+  margin-top: 24px;
   display: flex;
 }
 body .container .leftBlock .buttons .storeButton {
@@ -73,4 +73,13 @@ body .container .rightBlock .screenshot .layer2 {
   border-radius: 16px;
   position: absolute;
   transform: translateZ(20px);
+}
+@media (max-width: 768px) {
+  .leftBlock {
+    width: 100% !important;
+    padding: 0 48px !important;
+  }
+  .rightBlock {
+    display: none;
+  }
 }

@@ -17,7 +17,7 @@ body .container .leftBlock {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 480px;
+  width: 500px;
   padding-right: 192px;
   margin-top: -40px;
 }

@@ -1,0 +1,85 @@
+<html>
+    <head>
+        <style>
+            body {
+                padding: 0px;
+                margin: 0px;
+                background-color: #FFF6F6;
+                display: flex;
+                width: 100vw;
+                height: 100vh;
+                justify-content: center;
+                align-items: center;
+                font-family: 'Helvetica Neue', -apple-system, BlinkMacSystemFont, sans-serif;
+            }
+            .card {
+                width: 320px;
+                height: 480px;
+                background-color: #FF6262;
+                box-shadow: 0px 96px 96px rgba(255,98,98,0.2);
+                transform-style: preserve-3d;
+                cursor: pointer;
+                transform: perspective(500px);
+            }
+            .donut {
+                width: 100%;
+                height: 100%;
+                background-image: url("donut.svg");
+                transform: scale(0.9) translateZ(40px);
+                position: absolute;
+            }
+            .title {
+                position: absolute;
+                text-align: center;
+                width: 100%;
+                margin-top: 315px;
+                font-size: 20px;
+                color: white;
+                text-transform: uppercase;
+                font-weight: 500;
+                letter-spacing: 2px;
+                transform: scale(1) translateZ(10px);
+            }
+            .desc {
+                position: absolute;
+                text-align: center;
+                padding: 0px 40px;
+                font-size: 15px;
+                color: white;
+                font-weight: 300;
+                line-height: 20px;
+                margin-top: 354px;
+                transform: scale(1) translateZ(10px);
+                opacity: 0.8;
+            }
+            .button {
+                width: 200px;
+                height: 72px;
+                position: absolute;
+                margin-left: 60px;
+                background-color: white;
+                bottom: -17px;
+                text-align: center;
+                line-height: 72px;
+                transform: scale(0.9) translateZ(40px);
+                font-size: 20px;
+                color: #FF6262;
+                text-transform: uppercase;
+                font-weight: 500;
+                letter-spacing: 2px;
+            }
+        </style>
+    <script src="hover3D.js"></script>
+    </head>
+    <body>
+        <div class="card">
+            <div class="donut"></div>
+            <div class="title">Hover 3d</div>
+            <div class="desc">A small library that helps you to create a cool 3d hover effect with a single line of code.</div>
+            <div class="button">Import</div>
+        </div>
+    <script>
+        let myHover3D = new Hover3D(".card");
+    </script>
+    </body>
+</html>

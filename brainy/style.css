@@ -83,3 +83,24 @@ body .container .rightBlock .screenshot .layer2 {
     display: none;
   }
 }
+@media (max-width: 480px) {
+  .buttons {
+    flex-direction: column;
+  }
+  .buttons .storeButton {
+    width: 100% !important;
+    margin-bottom: 24px;
+  }
+}
+@media (max-width: 375px) {
+  .leftBlock {
+    padding: 0px 24px !important;
+    margin-top: 24px !important;
+  }
+  .leftBlock h1 {
+    font-size: 72px !important;
+  }
+  .leftBlock p {
+    font-size: 20px !important;
+  }
+}

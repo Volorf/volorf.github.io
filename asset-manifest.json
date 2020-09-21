@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9079a6fa.chunk.css",
-    "main.js": "/static/js/main.34f1897e.chunk.js",
-    "main.js.map": "/static/js/main.34f1897e.chunk.js.map",
+    "main.js": "/static/js/main.bb7b249d.chunk.js",
+    "main.js.map": "/static/js/main.bb7b249d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ecd1f050.js",
     "runtime-main.js.map": "/static/js/runtime-main.ecd1f050.js.map",
     "static/js/2.5e232e69.chunk.js": "/static/js/2.5e232e69.chunk.js",
     "static/js/2.5e232e69.chunk.js.map": "/static/js/2.5e232e69.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bb078fbf18a620c3d69ede1a2f52a796.js": "/precache-manifest.bb078fbf18a620c3d69ede1a2f52a796.js",
+    "precache-manifest.c31ad13ae037256fa55e721357a937d1.js": "/precache-manifest.c31ad13ae037256fa55e721357a937d1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9079a6fa.chunk.css.map": "/static/css/main.9079a6fa.chunk.css.map",
     "static/media/01_search_field_interaction_concept.gif": "/static/media/01_search_field_interaction_concept.8228562a.gif",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.ecd1f050.js",
     "static/js/2.5e232e69.chunk.js",
     "static/css/main.9079a6fa.chunk.css",
-    "static/js/main.34f1897e.chunk.js"
+    "static/js/main.bb7b249d.chunk.js"
   ]
 }

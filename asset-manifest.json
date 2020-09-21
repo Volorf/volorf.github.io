@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9079a6fa.chunk.css",
-    "main.js": "/static/js/main.546db125.chunk.js",
-    "main.js.map": "/static/js/main.546db125.chunk.js.map",
+    "main.js": "/static/js/main.34f1897e.chunk.js",
+    "main.js.map": "/static/js/main.34f1897e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ecd1f050.js",
     "runtime-main.js.map": "/static/js/runtime-main.ecd1f050.js.map",
-    "static/js/2.17e1cd6c.chunk.js": "/static/js/2.17e1cd6c.chunk.js",
-    "static/js/2.17e1cd6c.chunk.js.map": "/static/js/2.17e1cd6c.chunk.js.map",
+    "static/js/2.5e232e69.chunk.js": "/static/js/2.5e232e69.chunk.js",
+    "static/js/2.5e232e69.chunk.js.map": "/static/js/2.5e232e69.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9034aebbb5a13dcf6a6102d38aab4b7f.js": "/precache-manifest.9034aebbb5a13dcf6a6102d38aab4b7f.js",
+    "precache-manifest.bb078fbf18a620c3d69ede1a2f52a796.js": "/precache-manifest.bb078fbf18a620c3d69ede1a2f52a796.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9079a6fa.chunk.css.map": "/static/css/main.9079a6fa.chunk.css.map",
     "static/media/01_search_field_interaction_concept.gif": "/static/media/01_search_field_interaction_concept.8228562a.gif",
@@ -40,17 +40,21 @@
     "static/media/Mobile_Navigation_Pattern.gif": "/static/media/Mobile_Navigation_Pattern.1c8b6b58.gif",
     "static/media/apopalypse.gif": "/static/media/apopalypse.a8c65520.gif",
     "static/media/back_button.css": "/static/media/back.ed2c17f4.svg",
-    "static/media/chudo.jpg": "/static/media/chudo.359de3bf.jpg",
+    "static/media/brainy.gif": "/static/media/brainy.0cc083ea.gif",
+    "static/media/chudo-opt.jpg": "/static/media/chudo-opt.cd82df3d.jpg",
     "static/media/cover@2x.jpg": "/static/media/cover@2x.3a40ace6.jpg",
+    "static/media/hover3D.gif": "/static/media/hover3D.6cc26812.gif",
     "static/media/magic.gif": "/static/media/magic.3fb7295d.gif",
-    "static/media/makeapp.png": "/static/media/makeapp.7c8bea27.png",
+    "static/media/makeapp.png": "/static/media/makeapp.029aea25.png",
     "static/media/papervsmicrobes.gif": "/static/media/papervsmicrobes.98942cff.gif",
-    "static/media/star_tanks.gif": "/static/media/star_tanks.d56411f8.gif"
+    "static/media/space_rainbow.gif": "/static/media/space_rainbow.a7617088.gif",
+    "static/media/star_tanks.gif": "/static/media/star_tanks.d56411f8.gif",
+    "static/media/vr-editor.jpg": "/static/media/vr-editor.2d48f175.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ecd1f050.js",
-    "static/js/2.17e1cd6c.chunk.js",
+    "static/js/2.5e232e69.chunk.js",
     "static/css/main.9079a6fa.chunk.css",
-    "static/js/main.546db125.chunk.js"
+    "static/js/main.34f1897e.chunk.js"
   ]
 }

@@ -6,12 +6,31 @@
                 padding: 0px;
                 margin: 0px;
                 background-color: red;
+                width: 100vw;
+                height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .text {
+                font-size: 32px;
+                font-family: 'Courier New', Courier, monospace;
+                color: white;
             }
         </style>
     </head>
     <body>
+        <div class="text">DEBUG HTML PAGE</div>
         <script>
-           console.log("it works"); 
+            let bodyTag = document.getElementsByTagName("body")[0];
+            let switcher = true;
+            setInterval(switchBodyBg, 100);
+           
+            function switchBodyBg() {
+                bodyTag.style.background = switcher ? "blue" : "red";
+                switcher = !switcher;
+           }
+
         </script>
     </body>
 </html>

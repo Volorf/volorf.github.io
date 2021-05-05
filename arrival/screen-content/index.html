@@ -5,29 +5,32 @@
             body {
                 padding: 0px;
                 margin: 0px;
-                background-color: red;
+                background-color: black;
                 width: 100vw;
                 height: 100vh;
                 display: flex;
                 justify-content: center;
                 align-items: center;
             }
-            .text {
-                font-size: 32px;
-                font-family: 'Courier New', Courier, monospace;
+            #textTag {
+                font-size: 75vh;
+                font-family: "Arial";
                 color: white;
+                letter-spacing: 20;
             }
         </style>
     </head>
     <body>
-        <div class="text">DEBUG HTML PAGE</div>
+        <marquee direction="left" id="textTag">THIS IS A DEBUG WEB PAGE</marquee>
         <script>
             let bodyTag = document.getElementsByTagName("body")[0];
+            let textTag = document.getElementById("textTag");
             let switcher = true;
-            setInterval(switchBodyBg, 100);
+            setInterval(switchBodyBg, 500);
            
             function switchBodyBg() {
-                bodyTag.style.background = switcher ? "blue" : "red";
+                bodyTag.style.background = switcher ? "white" : "black";
+                textTag.style.color = switcher ? "black" : "white";
                 switcher = !switcher;
            }
 

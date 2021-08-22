@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.9079a6fa.chunk.css",
-    "main.js": "/static/js/main.98e88272.chunk.js",
-    "main.js.map": "/static/js/main.98e88272.chunk.js.map",
+    "main.css": "/static/css/main.7816fce1.chunk.css",
+    "main.js": "/static/js/main.fe7dee61.chunk.js",
+    "main.js.map": "/static/js/main.fe7dee61.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ecd1f050.js",
     "runtime-main.js.map": "/static/js/runtime-main.ecd1f050.js.map",
-    "static/js/2.5e232e69.chunk.js": "/static/js/2.5e232e69.chunk.js",
-    "static/js/2.5e232e69.chunk.js.map": "/static/js/2.5e232e69.chunk.js.map",
+    "static/js/2.1607a90e.chunk.js": "/static/js/2.1607a90e.chunk.js",
+    "static/js/2.1607a90e.chunk.js.map": "/static/js/2.1607a90e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1f604c56363ed08c670fc854228968aa.js": "/precache-manifest.1f604c56363ed08c670fc854228968aa.js",
+    "precache-manifest.c31156f16245925af2af3c8951caeab9.js": "/precache-manifest.c31156f16245925af2af3c8951caeab9.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9079a6fa.chunk.css.map": "/static/css/main.9079a6fa.chunk.css.map",
+    "static/css/main.7816fce1.chunk.css.map": "/static/css/main.7816fce1.chunk.css.map",
+    "static/media/01.jpg": "/static/media/01.b8865f50.jpg",
     "static/media/01_search_field_interaction_concept.gif": "/static/media/01_search_field_interaction_concept.8228562a.gif",
     "static/media/01_sparkliner.gif": "/static/media/01_sparkliner.5fc3d336.gif",
     "static/media/01_yandex_news.png": "/static/media/01_yandex_news.b421519d.png",
+    "static/media/02.jpg": "/static/media/02.60a07dd4.jpg",
     "static/media/02_vrar_loader_concept.gif": "/static/media/02_vrar_loader_concept.88cedeb8.gif",
     "static/media/02_yandex_news.png": "/static/media/02_yandex_news.7b60feb5.png",
+    "static/media/03.jpg": "/static/media/03.bf3f1b5c.jpg",
     "static/media/03_radio_buttons_interaction_concept.gif": "/static/media/03_radio_buttons_interaction_concept.afdd4595.gif",
     "static/media/03_yandex_news.png": "/static/media/03_yandex_news.6b2c001e.png",
+    "static/media/04.jpg": "/static/media/04.6716e650.jpg",
     "static/media/04_vrar_toggle_button_interaction.gif": "/static/media/04_vrar_toggle_button_interaction.f52e5f01.gif",
     "static/media/04_yandex_news.png": "/static/media/04_yandex_news.ded250a1.png",
     "static/media/05_icon_app_notification_badge_concept.gif": "/static/media/05_icon_app_notification_badge_concept.32fdc0fe.gif",
@@ -53,8 +57,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ecd1f050.js",
-    "static/js/2.5e232e69.chunk.js",
-    "static/css/main.9079a6fa.chunk.css",
-    "static/js/main.98e88272.chunk.js"
+    "static/js/2.1607a90e.chunk.js",
+    "static/css/main.7816fce1.chunk.css",
+    "static/js/main.fe7dee61.chunk.js"
   ]
 }
